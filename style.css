@@ -38,6 +38,7 @@ h1 {
     margin-bottom: 5px;
     font-family: "Playfair Display";
     font-weight: 700;
+    max-lines: 1;
 }
 .dots {
     display: flex;
